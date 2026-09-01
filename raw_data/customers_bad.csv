@@ -1,0 +1,31 @@
+customer_id,customer_name,city,state
+C001,Arjun Retail,Hyderabad,Telangana
+C002,Sai Enterprises,Bengaluru,Karnataka
+C003,Lakshmi Stores,Chennai,Tamil Nadu
+C004,Green Mart,Pune,Maharashtra
+C005,Krishna Traders,Vijayawada,Andhra Pradesh
+C006,Fresh Basket,Hyderabad,Telangana
+C007,Smart Retail,Mumbai,Maharashtra
+C008,City Stores,Delhi,Delhi
+C009,Mega Shop,Kolkata,West Bengal
+C010,Daily Needs,Chennai,Tamil Nadu
+C011,Prime Retail,Jaipur,Rajasthan
+C012,Value Mart,Surat,Gujarat
+C013,Budget Shop,Lucknow,Uttar Pradesh
+C014,Speed Retail,Kochi,Kerala
+C015,Metro Stores,Indore,Madhya Pradesh
+C016,Elite Mart,Nagpur,Maharashtra
+C017,Family Shop,Patna,Bihar
+C018,Quick Buy,Bhubaneswar,Odisha
+C019,Home Needs,Ranchi,Jharkhand
+C020,Best Choice,Chandigarh,Punjab
+C021,Retail Hub,Noida,Uttar Pradesh
+C022,Urban Cart,Gurgaon,Haryana
+C003,Lakshmi Stores,Chennai,Tamil Nadu
+C024,,Coimbatore,Tamil Nadu
+C025,Alpha Retail,,Karnataka
+C026,Beta Retail,Hyderabad,
+,Unknown Shop,Mumbai,Maharashtra
+C028,  Space Retail  ,Chennai,Tamil Nadu
+C029,Gamma Mart,,Kerala
+C030,Delta Stores,Pune,Maharashtra
